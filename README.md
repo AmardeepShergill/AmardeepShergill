@@ -1,11 +1,11 @@
-## Hello, I'm Amardeep 
+## Hello, I'm Amardeep a data analyst from the Uk with experiance in:
 
+##   - Querying data using SQL.
+##   - Generate reports and perform ad-hoc data analysis using SQL.
+##   - Developing dashboards on Tableau.
+##   - Data analysis and reporting using Google Sheets and Excel.
 
-##    Querying data using SQL.
-##    Generate reports and perform ad-hoc data analysis using SQL.
-##    Developing dashboards on Tableau.
-##    Data analysis and reporting using Google Sheets and Excel.
-
+# If you would like to get in contact with me please message me [linkedin](https://www.linkedin.com/in/amardeep-shergill-809842127/)
 
 <!--
 **AmardeepShergill/AmardeepShergill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
