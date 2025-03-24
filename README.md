@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hello, I'm Amardeep 
+
+
+##    Querying data using SQL.
+##    Generate reports and perform ad-hoc data analysis using SQL.
+##    Developing dashboards on Tableau and Looker Studio.
+##    Data analysis and reporting using Google Sheets and Excel.
+
 
 <!--
 **AmardeepShergill/AmardeepShergill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
