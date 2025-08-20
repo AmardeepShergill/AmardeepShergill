@@ -6,7 +6,7 @@
 - Data analysis and reporting using Google Sheets and Excel.
   
  If you would like to get in contact with me please message me [linkedin](https://www.linkedin.com/in/amardeep-shergill-809842127/)
- 
+
 <!--
 **AmardeepShergill/AmardeepShergill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
