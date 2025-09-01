@@ -4,7 +4,7 @@
 - Generate reports and perform ad-hoc data analysis using SQL.
 - Developing dashboards on Tableau.
 - Data analysis and reporting using Google Sheets and Excel.
-- 
+
  If you would like to get in contact with me please message me [linkedin](https://www.linkedin.com/in/amardeep-shergill-809842127/)
 
 <!--
