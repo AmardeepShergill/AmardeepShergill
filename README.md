@@ -1,4 +1,5 @@
  Hello, I'm Amardeep a data analyst from the Uk with experiance in:
+
  
 - Querying data using SQL.
 - Generate reports and perform ad-hoc data analysis using SQL.
